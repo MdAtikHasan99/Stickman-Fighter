@@ -1,0 +1,5 @@
+{
+  "name": "Stickman Fighter",
+  "description": "A two-player stickman fighting game with physics-based combat. Control your stickman with keyboard controls and battle it out on a platform stage. The last stickman standing wins!",
+  "requestFramePermissions": []
+}
